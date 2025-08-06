@@ -1,0 +1,2 @@
+# Oxocard_Bewaesserungserinnerung
+Oxocard Bewässerungserinnerung für HFTM Studium Modul GS123 Projektmanagement
