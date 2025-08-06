@@ -1,4 +1,4 @@
-from adc121c021 import ADC121C021
+
 from random import randint
 from oxocard import *
 from oxocardext import *
@@ -10,6 +10,7 @@ simulatorMode=False
 if(not simulatorMode):
     from machine import ADC, Pin
     from music import *
+    from adc121c021 import ADC121C021
 
 
 #red=> no wather
